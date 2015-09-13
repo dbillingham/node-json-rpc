@@ -3,7 +3,7 @@
   "description": "Flexible client, server objects for json-rpc communications",
   "author": "Koen Van Rulo (@NemoPersona)",
   "license": "BSD",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "main": "./lib/index.js",
   "keywords": [
     "server",
